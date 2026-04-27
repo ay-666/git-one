@@ -3,3 +3,6 @@ one one
 hhhh
 
 hello
+ another feature
+
+ Adding dark mode functionality
